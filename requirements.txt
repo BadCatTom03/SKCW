@@ -1,0 +1,12 @@
+torch
+diffusers
+transformers
+accelerate
+numpy
+scipy
+opencv-python
+pillow
+tqdm
+einops
+safetensors
+ldpc
