@@ -200,7 +200,7 @@ minimal reproducibility path.
   title  = {SKCW: Semantic-Keyed Content Watermarking for Video Diffusion Models via Inversion-Free Learned Residual Extraction},
   author = {Haoyu Yang and Ke Niu and Shizhe Ru and Qiang Huang},
   year   = {2026},
-  note   = {Submitted to IEEE TCSVT}
+  note   = {Manuscript under review}
 }
 ```
 
